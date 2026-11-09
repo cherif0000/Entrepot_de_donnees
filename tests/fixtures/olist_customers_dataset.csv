@@ -1,0 +1,49 @@
+customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state
+cust000a,person000,1000,sao paulo,SP
+cust000b,person000,1000,sao paulo,SP
+cust001a,person001,1001,rio de janeiro,RJ
+cust002a,person002,1002,belo horizonte,MG
+cust003a,person003,1003,salvador,BA
+cust004a,person004,1004,porto alegre,RS
+cust005a,person005,1005,sao paulo,SP
+cust005b,person005,1005,sao paulo,SP
+cust006a,person006,1006,rio de janeiro,RJ
+cust007a,person007,1007,belo horizonte,MG
+cust008a,person008,1008,salvador,BA
+cust009a,person009,1009,porto alegre,RS
+cust010a,person010,1010,sao paulo,SP
+cust010b,person010,1010,sao paulo,SP
+cust011a,person011,1011,rio de janeiro,RJ
+cust012a,person012,1012,belo horizonte,MG
+cust013a,person013,1013,salvador,BA
+cust014a,person014,1014,porto alegre,RS
+cust015a,person015,1015,sao paulo,SP
+cust015b,person015,1015,sao paulo,SP
+cust016a,person016,1016,rio de janeiro,RJ
+cust017a,person017,1017,belo horizonte,MG
+cust018a,person018,1018,salvador,BA
+cust019a,person019,1019,porto alegre,RS
+cust020a,person020,1020,sao paulo,SP
+cust020b,person020,1020,sao paulo,SP
+cust021a,person021,1021,rio de janeiro,RJ
+cust022a,person022,1022,belo horizonte,MG
+cust023a,person023,1023,salvador,BA
+cust024a,person024,1024,porto alegre,RS
+cust025a,person025,1025,sao paulo,SP
+cust025b,person025,1025,sao paulo,SP
+cust026a,person026,1026,rio de janeiro,RJ
+cust027a,person027,1027,belo horizonte,MG
+cust028a,person028,1028,salvador,BA
+cust029a,person029,1029,porto alegre,RS
+cust030a,person030,1030,sao paulo,SP
+cust030b,person030,1030,sao paulo,SP
+cust031a,person031,1031,rio de janeiro,RJ
+cust032a,person032,1032,belo horizonte,MG
+cust033a,person033,1033,salvador,BA
+cust034a,person034,1034,porto alegre,RS
+cust035a,person035,1035,sao paulo,SP
+cust035b,person035,1035,sao paulo,SP
+cust036a,person036,1036,rio de janeiro,RJ
+cust037a,person037,1037,belo horizonte,MG
+cust038a,person038,1038,salvador,BA
+cust039a,person039,1039,porto alegre,RS
